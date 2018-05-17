@@ -1,0 +1,17 @@
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.dll.config
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\newfuncs2A_V2.exe.config
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\newfuncs2A_V2.exe
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\newfuncs2A_V2.pdb
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.dll
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.MachineLearning.dll
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.Math.Core.dll
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.Math.dll
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.Statistics.dll
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.xml
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.MachineLearning.xml
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.Math.xml
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.Math.Core.xml
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\bin\Debug\Accord.Statistics.xml
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\obj\Debug\newfuncs2A_V2.csprojResolveAssemblyReference.cache
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\obj\Debug\newfuncs2A_V2.exe
+\\cs1\2018\rkarpenko18\CS-472-1\newfuncs2A_V2\newfuncs2A_V2\obj\Debug\newfuncs2A_V2.pdb
